@@ -5,11 +5,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(
+  /* background: linear-gradient(
     to left,
     rgba(7, 27, 82, 1) 0%,
     rgba(0, 128, 128, 1) 100%
-  );
+  ); */
+  background-image: url(https://images.immediate.co.uk/production/volatile/sites/4/2018/08/GettyImages-476758516use-34c1d9f.jpg?quality=90&resize=768,574);
+  background-size: cover;
 }
 
 code {
